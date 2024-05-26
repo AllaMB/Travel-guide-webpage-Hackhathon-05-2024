@@ -1,5 +1,5 @@
 Overview
-This is a 6-team frontend developers project during Hackhathon of ITGIRLS 2024.
+This is a 6-team frontend developers project taking the 1st place during Hackhathon of ITGIRLS 2024.
 This is a website for Empire Travel, a company that offers guided tours and travel services. The website features a carousel of guides, a search form, registration and login forms, and a section for trending tours.
 
 
